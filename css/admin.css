@@ -1,0 +1,98 @@
+body{
+    background-color: azure;
+}
+
+header {
+    background-color: #153f6f;
+    padding-bottom: 3px;
+    height:60px;
+    position:fixed;
+    top: 0;
+    opacity: 0.8;
+    overflow:hidden;
+    width:100%;
+}
+.up {
+    text-decoration: none;
+    color: white;
+    font-family: Tahoma;
+    display: inline;
+    max-width: 100%;
+    margin-left: 10px;
+    background-color: #153f6f;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+input.up{
+    background-color: #153f6f;
+}
+
+.logo{
+    margin-right: 900px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: dashed;
+    padding: 10px 10px;
+    color: white;
+    font-family: Tahoma;
+    display: inline;
+    max-width: 100%;
+    margin-left: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+table {
+    border: 4px ridge  #000066;
+    margin: 40px 0px;
+    width: 100%;
+    background: white;
+    color: #000066;
+    border-spacing: 1px;
+}
+
+.headers {
+    border: 1px solid #666666;
+    background: white;
+}
+
+.tbl{
+    border: 1px solid #666666;
+    background-color: #000033;
+    color: white;
+    font-family: "Arial Narrow";
+    padding: 5px;
+
+}
+
+ .buttons{
+     margin-top: 120px;
+    margin-bottom: 0px;
+     font-family: Tahoma;
+     font-size: 25px;
+}
+ .button{
+     text-decoration: none;
+     font-family: Tahoma;
+     font-size: 20px;
+     padding: 5px 70px;
+     margin: 0px 20px;
+     text-align: left;
+     border:3px groove whitesmoke;
+     border-radius: 10px;
+     border-color: #336699;
+     box-shadow: 0 0 10px #9999CC;
+     background-color: #336699;
+     color: white;
+     text-shadow: 0 0 3px grey;
+     cursor: pointer;
+ }
+
+ p{
+     margin-left: 30px;
+     color: #000066;
+ }
+
+

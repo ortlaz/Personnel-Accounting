@@ -1,0 +1,112 @@
+body{
+    background-color: azure;
+}
+
+header {
+    background-color: #153f6f;
+    padding-bottom: 3px;
+    height:60px;
+    position:fixed;
+    top: 0;
+    opacity: 0.8;
+    overflow:hidden;
+    width:100%;
+}
+.up  {
+    text-decoration: none;
+    color: white;
+    font-family: Tahoma;
+    display: inline;
+    max-width: 100%;
+    margin-left: 10px;
+    background-color: #153f6f;
+    border: none;
+    font-size: 16px;
+}
+
+input.up{
+    background-color: #153f6f;
+    cursor: pointer;
+}
+
+.logo{
+    margin-right: 900px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: dashed;
+    padding: 10px 10px;
+    color: white;
+    font-family: Tahoma;
+    display: inline;
+    max-width: 100%;
+    margin-left: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.form{
+    margin: 200px 0px 50px 700px;
+}
+
+.input-group{
+    margin:30px 0px;
+    width: 600px;
+    font-family: Tahoma;
+    font-size: 18px;
+    color: #000066;
+
+}
+
+input{
+    font-size: 16px;
+    background-color: lightblue;
+    height: 30px;
+    border-color: whitesmoke;
+    border-radius: 8px;
+    color: white;
+    padding-left: 7px;
+
+}
+
+::placeholder{
+    color: white;
+}
+
+:optional{
+    font-size: 16px;
+    background-color: lightblue;
+    height: 30px;
+    border-color: whitesmoke;
+    border-radius: 8px;
+    color: white;
+    padding-left: 7px;
+
+}
+
+.button{
+    height: 50px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 20px;
+    padding: 5px 70px;
+    margin: 0px 0px 50px 20px;
+    text-align: left;
+    border:3px groove whitesmoke;
+    border-radius: 10px;
+    border-color: #336699;
+    box-shadow: 0 0 10px #9999CC;
+    background-color: #336699;
+    color: white;
+    text-shadow: 0 0 3px grey;
+    cursor: pointer;
+}
+p{
+    margin-left: 40px;
+    font-family: Tahoma;
+    font-size: 20px;
+    color: green;
+    text-shadow: 0 0 3px aquamarine;
+}
+.form-control1{
+    width: 230px;
+}

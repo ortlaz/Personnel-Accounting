@@ -1,0 +1,115 @@
+.form-group{
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+input, select{
+    font-size: 14px;
+}
+.form-control {
+   padding: 8px 30px !important;
+    margin-left: 30px;
+}
+
+.form-control2 {
+    padding: 8px 30px !important;
+    margin-left: 400px;
+}
+
+header {
+    background-color: #153f6f;
+    padding-bottom: 3px;
+    height:60px;
+    position:fixed;
+    top: 0;
+    opacity: 0.8;
+    overflow:hidden;
+    width:100%;
+}
+li,a {
+    text-decoration: none;
+    color: white;
+    font-family: Tahoma;
+    display: inline;
+    max-width: 100%;
+    margin-left: 10px;
+}
+
+a.logo{
+    margin-right: 1050px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: dashed;
+    padding: 10px 10px;
+    display: inline;
+}
+
+
+
+#button {
+    text-decoration: none;
+    border: 3px solid whitesmoke;
+    margin-top: 28px;
+    margin-left: 30px;
+    padding: 8px 40px;
+    color: #666;
+    text-shadow: 0 1px #fff;
+    cursor: pointer;
+    border-radius: 8px;
+    background: #f5f5f5;
+    font-size: 18px;
+    box-shadow: 0 0 15px blue;
+}
+.main-form{
+    margin-top: 30px;
+    margin: 0 auto;
+    max-height: 1600px;
+    max-width: 700px;
+    padding: 10px 40px;
+    background-color: dimgray;
+    color: #FFF;
+    text-shadow: 0 0 3px blue;
+   border: 5px ridge lightgray;
+    box-shadow: 0 0 5px blue;
+    font-size: 18px;
+}
+.input-group {
+    color: #009edf;
+    font-size: 16px;
+}
+.login-button{
+    margin-top: 5px;
+}
+label {
+    margin-left: 35px;
+}
+select{
+    margin-left: 30px;
+    padding: 10px 60px;
+    font-family: Arial;
+    color: #666;
+    background: #f5f5f5;
+}
+
+form{
+    margin-top: 100px;
+}
+
+.left_form{
+      max-width: 1000px;
+}
+h1{
+    margin-left: 30px;
+    font-family: "Times New Roman";
+    margin-bottom: 40px;
+    text-shadow: 0 0 8px blue;
+}
+body{
+    background-color:  azure;
+}
+
+p{
+    font-size: 20px;
+    color: red;
+    margin-left: 35px;
+}

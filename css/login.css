@@ -1,0 +1,77 @@
+#log_in{
+   margin:0 0 150px 600px;
+    padding: 37px 30px;
+    width: 430px;
+    position: relative;
+    background: #fff;
+   border-radius:52px;
+    box-shadow: 0 1px 0 0 #d7d8db, 0 0 0 1px #e3e4e8;
+}
+
+.login_header {
+    font-family: "Arial";
+    margin:0 0 30px 180px;
+}
+
+#login_form {
+    margin: 20px 25px 0 50px;
+    width: 270px;
+}
+
+input.big_text {
+    font-size: 14px;
+    padding: 6px 12px 8px;
+    box-sizing: border-box;
+    height: 35px;
+    width: 340px;
+    line-height: 270px;
+    border-radius: 3px;
+}
+
+button, a {
+    height: 35px;
+    max-width: 200px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 20px;
+    padding: 5px 30px;
+    margin: 0px 10px;
+    text-align: left;
+    border: 3px solid whitesmoke;
+    border-radius: 10px;
+    border-color: #336699;
+    box-shadow: 0 0 10px #9999CC;
+    background-color: #336699;
+    color: white;
+    text-shadow: 0 0 3px grey;
+}
+
+#login_button {
+    height: 42px;
+    cursor: pointer;
+}
+ #reg_button{
+     width: 120px;
+ }
+ label{
+     font-size: 20px;
+
+ }
+ body{
+     background-size: cover;
+     background-image: url(http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_720/images/live/p0/4n/fy/p04nfyc7.jpg);
+    color: #153f6f;
+ }
+
+ P{
+     width: 700px;
+ }
+.zag{
+     margin-top: 190px;
+     font-family: "Times New Roman";
+     font-size: 32px;
+     margin-left: 730px;
+    font-style: oblique;
+    color: #153f6f;
+    text-shadow: 0 0 3px #9D60F9;
+ }
